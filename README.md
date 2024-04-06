@@ -1,9 +1,5 @@
-### Hello world! 👋
+### Hello world! 
 
-I'm Danny, I'm looking to start a career as a software developer!
+- I'm Danny 👋 a software deveoloper from St. John's, NL. I'm currently honing my skills with the help of Get Coding. Coding for me started out as an extension of my curiosity. This curiosity eventually graduated to a hobby that I am passionate about pursuing proofessionally.
 
-Coding for me started out as an exploration of curiosity. This curiosity turned into a hobby and, one day, I  hope to turn this hobby into a career.
-
-I've learned some rudimentary Python and am now branching out into HTML/CSS and JavaScript!
-
-I'm studying with the help of Get Coding.
+- My most recent project is called [Pixelator Alligator](https://dannyboi-john.github.io/Pixelator_Alligator/). In essence, it takes a user-submitted image, and pixelates that image based on your specifications. I had initially designed this application to help with my crochet projects, but have since found its utility to be extensible to all kinds of crafts such as perler beads, embroidery, and of course, pixel art. I built this project with HTML, CSS, and a healty dose of Javascript.
