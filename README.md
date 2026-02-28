@@ -6,3 +6,5 @@
   - HTML
   - CSS
   - A healty dose of Javascript
+
+- My second project, [The Great and Powerful TarotBot](http://tarotbot.me) was an immense labour of love, and was a blast to throw together. Who doesn't love a good ol' card reading? Simply type in your query, if you have a specific aspect of life you'd like to focus on, (or leave blank for a general reading) and let The Spirits (<sub>*cough* OpenAI</sub>) unveil their mystical insights!
